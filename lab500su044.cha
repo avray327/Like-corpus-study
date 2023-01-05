@@ -4657,7 +4657,7 @@
 *SUM:	<there's not> [?] enough <of that> [?] (0.6) .
 %mor:	pro:exist|there~cop|be&3S neg|not adv|enough prep|of pro:dem|that .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|4|JCT 6|5|POBJ 7|2|PUNCT
-*S6:	gimme that &=laughs:SUm xxx [# 0.4] .
+*S6:	gimme that &=laughs xxx (0.4) .
 %mor:	v|give~pro:obj|me pro:dem|that .
 %gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
 *S8:	xxx before we go ?
